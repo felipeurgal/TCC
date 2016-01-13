@@ -1,0 +1,8 @@
+TCC - Automação Residencial via Android
+
+Referencias
+
+1- Automação
+2- Android
+3- Arduino
+
