@@ -1,9 +1,13 @@
 TCC - Automação Residencial via android
 
-1- Introdução
-2- Objetivos - Primario e Secundario
-3- Materias
-4- Metodos
-5- Vantagens
-6- Justificativa
+-------------Primeira Parte--------------
+					|
+1- Introdução                           |
+2- Objetivos - Primario e Secundario	|
+3- Materias				|
+4- Metodos				|
+5- Vantagens				|
+6- Justificativa			|
+					|
+-------------Para 15/Abril/15------------
 
