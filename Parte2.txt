@@ -1,8 +1,9 @@
 TCC - Automação Residencial via Android
 
-Referencias
-
-1- Automação
-2- Android
-3- Arduino
-
+------------Referências----------------------
+					    |
+1- Automação Residencial - Casa Inteligente |
+2- Desenvolvimento Android       	    |
+3- Introdução ao Arduino             	    |
+					    |
+------------Para 15/Maio/15------------------
